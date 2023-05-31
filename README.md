@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Calvince-Okoth
-- 👀 I’m interested in backend and frontend web development
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in networking
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on @everyone
 - 📫 How to reach me email- cokoth172@gmail.com
 
 <!---
